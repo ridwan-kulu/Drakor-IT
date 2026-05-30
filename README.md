@@ -1,56 +1,173 @@
 # Drakor IT
 
-![Preview](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfmTkrilNem0UuFEXli8z84DbuW8pR60zGvQeVChbWZqrev_NRSe9MhyRnP8KOC0SEjwiszSUtpLdedOnfZ9S037mRNhqoyIYI43dJanRNBaOT4pFaSj9SyC3Ru34ddYw0iFM9szyq-Vy38kgDDY9QPt3z8FP4WxeoRpq1fGouxDYCa1R1m2RPUbjOG-0/s1600/355748.jpg)
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfmTkrilNem0UuFEXli8z84DbuW8pR60zGvQeVChbWZqrev_NRSe9MhyRnP8KOC0SEjwiszSUtpLdedOnfZ9S037mRNhqoyIYI43dJanRNBaOT4pFaSj9SyC3Ru34ddYw0iFM9szyq-Vy38kgDDY9QPt3z8FP4WxeoRpq1fGouxDYCa1R1m2RPUbjOG-0/s1600/355748.jpg" alt="Drakor IT Preview" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-Auth%20%26%20Database-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Motion-Animation-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Motion" />
+  <img src="https://img.shields.io/badge/Lucide-Icons-F56565?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide React" />
+  <img src="https://img.shields.io/badge/SEO-Ready-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="SEO Ready" />
+  <img src="https://img.shields.io/badge/PWA-Ready-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Ready" />
+  <img src="https://img.shields.io/badge/Mobile-First-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Mobile First" />
+  <img src="https://img.shields.io/badge/Liquid%20Glass-UI-8A2BE2?style=for-the-badge" alt="Liquid Glass UI" />
+</p>
 
-Drakor IT adalah katalog streaming drama Korea, film Asia, series ongoing, dan movie populer dengan tampilan sinematik berbasis liquid glass. Situs ini dirancang untuk pengalaman discovery yang cepat, mobile-friendly, SEO-ready, dan nyaman digunakan untuk mencari tontonan subtitle Indonesia.
+<p align="center">
+  <strong>Katalog streaming drama Korea, film Asia, series ongoing, dan movie populer dengan tampilan sinematik berbasis liquid glass.</strong>
+</p>
 
-Live site: [https://drakor-it.vercel.app](https://drakor-it.vercel.app)
+<p align="center">
+  <a href="https://drakor-it.vercel.app">
+    <strong>Live Demo</strong>
+  </a>
+  ·
+  <a href="https://drakor-it.vercel.app/sitemap.xml">
+    Sitemap
+  </a>
+  ·
+  <a href="https://drakor-it.vercel.app/robots.txt">
+    Robots.txt
+  </a>
+</p>
+
+---
+
+## Tentang Project
+
+**Drakor IT** adalah katalog streaming drama Korea, film Asia, series ongoing, dan movie populer dengan tampilan modern berbasis **liquid glass**.
+
+Situs ini dirancang untuk memberikan pengalaman discovery yang cepat, mobile-friendly, SEO-ready, dan nyaman digunakan untuk mencari tontonan dengan subtitle Indonesia.
+
+Project ini menggabungkan tampilan sinematik, poster card responsif, halaman detail informatif, watch page, sistem komentar, rating pengguna, watchlist, history tontonan, serta metadata SEO dinamis agar siap diindeks oleh mesin pencari.
+
+---
+
+## Live Site
+
+Project production tersedia di:
+
+[https://drakor-it.vercel.app](https://drakor-it.vercel.app)
+
+---
 
 ## Kenapa Drakor IT?
 
-Drakor IT dibuat untuk memberi pengalaman browsing yang lebih premium dibanding katalog streaming biasa. Tampilan menggunakan glassmorphism, poster card responsif, homepage kurasi, halaman detail informatif, watch page dengan riwayat tontonan, rating pengguna, komentar, bookmark, dan metadata SEO yang siap diindeks mesin pencari.
+Drakor IT dibuat untuk memberikan pengalaman browsing yang lebih premium dibanding katalog streaming biasa.
 
-Fokus utama proyek ini:
+Fokus utama project ini:
 
-- Discovery cepat untuk drama Korea, movie, series ongoing, completed, dan top-rated.
-- UI liquid glass yang modern, responsif, dan nyaman di desktop maupun ponsel.
-- Halaman detail yang kaya informasi: poster, genre, rating, metadata, cast, episode, komentar, dan rekomendasi.
-- Pengalaman pengguna login: watchlist, history, rating, dan komentar.
-- SEO lengkap: metadata dinamis, Open Graph image, canonical URL, robots.txt, dan sitemap.xml dinamis.
+- Discovery cepat untuk drama Korea, film Asia, movie, series ongoing, completed, dan top-rated.
+- UI modern berbasis liquid glass dan glassmorphism.
+- Tampilan responsive untuk desktop, tablet, dan mobile.
+- Halaman detail lengkap dengan poster, genre, rating, metadata, cast, episode, komentar, dan rekomendasi.
+- Pengalaman pengguna login seperti watchlist, history, rating, dan komentar.
+- SEO-ready dengan metadata dinamis, Open Graph image, canonical URL, robots.txt, dan sitemap.xml dinamis.
+
+---
 
 ## Fitur Utama
 
-- Homepage sinematik dengan hero featured, live pulse, new releases, popular series, top rated, dan continue watching.
-- Poster card berbasis data API: title, episode, status, type, year, resolution, poster, dan rating tampil rapi tanpa teks terpotong di mobile.
-- Detail page liquid glass dengan poster showcase, CTA watch, metadata cards, episode rail, rating panel, komentar, cast, dan rekomendasi.
-- Watch page dengan server player, episode navigation, playback info, media details, rating, komentar, dan rekomendasi.
-- Header dan footer modern dengan hover glass, announcement panel, search, auth navigation, dan social/contact links.
-- SEO dan indexing: `app/robots.ts` dan `app/sitemap.ts` menghasilkan `/robots.txt` dan `/sitemap.xml` secara dinamis.
-- PWA/site assets: favicon, manifest, Apple touch icon, dan logo navbar.
-- Supabase integration untuk auth, comments, ratings, watch history, watchlist, dan admin data.
+### Homepage
 
-## Tech Stack
+- Hero featured sinematik.
+- Live pulse section.
+- New releases.
+- Popular series.
+- Top rated catalog.
+- Continue watching untuk pengguna login.
+- Poster card responsif berbasis data API.
 
-- Next.js 16 App Router
-- React 19
-- TypeScript
-- Tailwind CSS
-- Supabase SSR dan Supabase JS
-- Motion for React
-- Lucide React icons
-- Vercel deployment
+### Detail Page
 
-## SEO
+- Tampilan detail berbasis liquid glass.
+- Poster showcase.
+- CTA watch.
+- Metadata cards.
+- Episode rail.
+- Rating panel.
+- Komentar pengguna.
+- Cast section.
+- Rekomendasi tontonan terkait.
 
-Proyek ini sudah disiapkan agar bisa diindeks mesin pencari:
+### Watch Page
+
+- Server player.
+- Episode navigation.
+- Playback information.
+- Media details.
+- Rating dan komentar.
+- Rekomendasi tontonan lainnya.
+- Riwayat tontonan pengguna.
+
+### User Features
+
+- Authentication dengan Supabase.
+- Watchlist.
+- Watch history.
+- User rating.
+- Comment system.
+- Profile-based experience.
+
+### UI dan Layout
+
+- Header modern dengan efek glass.
+- Footer modern dengan social/contact links.
+- Announcement panel.
+- Search navigation.
+- Auth navigation.
+- Mobile-first responsive design.
+- Poster card rapi tanpa teks terpotong di layar kecil.
+
+### SEO dan Indexing
 
 - Dynamic metadata per halaman.
 - Canonical URL.
 - Open Graph dan Twitter card.
 - Dynamic OG image route.
-- `robots.txt` mengizinkan crawler mengakses halaman publik.
-- `sitemap.xml` dinamis berisi halaman utama dan item katalog dari API.
+- Dynamic robots.txt.
+- Dynamic sitemap.xml.
+- Private routes tidak diprioritaskan untuk crawling.
+
+---
+
+## Tech Stack
+
+Project ini dibuat menggunakan teknologi berikut:
+
+| Teknologi | Keterangan |
+|---|---|
+| Next.js 16 | Framework utama dengan App Router |
+| React 19 | Library UI |
+| TypeScript | Type-safe development |
+| Tailwind CSS | Styling dan responsive layout |
+| Supabase SSR | Server-side authentication |
+| Supabase JS | Database, auth, comments, ratings, watchlist |
+| Motion for React | Animasi UI |
+| Lucide React | Icon library |
+| Vercel | Deployment production |
+
+---
+
+## SEO
+
+Project ini sudah disiapkan agar bisa diindeks mesin pencari.
+
+Fitur SEO yang tersedia:
+
+- Dynamic metadata per halaman.
+- Canonical URL.
+- Open Graph image.
+- Twitter card.
+- Dynamic OG image route.
+- `robots.txt` untuk mengatur akses crawler.
+- `sitemap.xml` dinamis untuk halaman utama dan item katalog.
 - Private routes seperti `/admin`, `/profile`, `/api`, dan auth/reset routes tidak diprioritaskan untuk crawling.
 
 Endpoint SEO:
@@ -58,7 +175,16 @@ Endpoint SEO:
 - [https://drakor-it.vercel.app/robots.txt](https://drakor-it.vercel.app/robots.txt)
 - [https://drakor-it.vercel.app/sitemap.xml](https://drakor-it.vercel.app/sitemap.xml)
 
-## Menjalankan Lokal
+---
+
+## Menjalankan Project Secara Lokal
+
+Clone repository:
+
+```bash
+git clone https://github.com/username/drakor-it.git
+cd drakor-it
+```
 
 Install dependencies:
 
@@ -66,7 +192,7 @@ Install dependencies:
 npm install
 ```
 
-Buat `.env` berdasarkan kebutuhan project:
+Buat file `.env.local`:
 
 ```bash
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
@@ -80,9 +206,17 @@ Jalankan development server:
 npm run dev
 ```
 
-Buka `http://localhost:3000`.
+Buka project di browser:
+
+```bash
+http://localhost:3000
+```
+
+---
 
 ## Scripts
+
+Beberapa command yang tersedia:
 
 ```bash
 npm run dev
@@ -91,9 +225,22 @@ npm run start
 npm run lint
 ```
 
+Keterangan:
+
+| Script | Fungsi |
+|---|---|
+| `npm run dev` | Menjalankan development server |
+| `npm run build` | Build project untuk production |
+| `npm run start` | Menjalankan production server |
+| `npm run lint` | Mengecek kualitas kode |
+
+---
+
 ## Deployment
 
-Project ini sudah terhubung ke Vercel dan production deploy tersedia di:
+Project ini dideploy menggunakan Vercel.
+
+Production site:
 
 [https://drakor-it.vercel.app](https://drakor-it.vercel.app)
 
@@ -103,27 +250,79 @@ Deploy manual:
 npx vercel deploy --prod --yes
 ```
 
-## Struktur Penting
+---
+
+## Struktur Project
 
 ```text
 app/
-  page.tsx          Homepage
-  robots.ts         Dynamic robots.txt
-  sitemap.ts        Dynamic sitemap.xml
-  api/og/route.tsx  Dynamic Open Graph image
+  page.tsx              Homepage
+  robots.ts             Dynamic robots.txt
+  sitemap.ts            Dynamic sitemap.xml
+  api/
+    og/
+      route.tsx         Dynamic Open Graph image
+
 components/
-  header.tsx        Header liquid glass
-  footer.tsx        Footer liquid glass
-  poster-card.tsx   Card katalog responsif
-  detail-view.tsx   Detail dan watch page layout
+  header.tsx            Header liquid glass
+  footer.tsx            Footer liquid glass
+  poster-card.tsx       Card katalog responsif
+  detail-view.tsx       Detail dan watch page layout
+
 lib/
-  api.ts            API client dan tipe katalog
-  seo.tsx           Metadata, canonical, OG, JSON-LD helpers
-  supabase/         Auth dan data integration
+  api.ts                API client dan tipe katalog
+  seo.tsx               Metadata, canonical, OG, JSON-LD helpers
+  supabase/             Auth dan data integration
 ```
 
-## Tentang Situs
+---
 
-Drakor IT cocok untuk pengguna yang ingin menemukan drama Korea dan film Asia dengan cepat, tampilan bersih, dan informasi yang mudah dipahami. Desainnya dibuat mobile-first, dengan card poster yang mengikuti data asli dari API dan layout yang tetap rapi di layar kecil.
+## Environment Variables
 
-Kunjungi situsnya di [drakor-it.vercel.app](https://drakor-it.vercel.app) dan temukan drama, movie, ongoing series, completed titles, serta rekomendasi tontonan terbaru.
+Pastikan environment variables berikut sudah tersedia sebelum menjalankan project:
+
+```bash
+NEXT_PUBLIC_SITE_URL=
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=
+```
+
+Contoh untuk lokal:
+
+```bash
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=your_supabase_publishable_key
+```
+
+---
+
+## Status Project
+
+Project ini mencakup:
+
+- Katalog drama dan film Asia.
+- Homepage sinematik.
+- Detail page.
+- Watch page.
+- Sistem komentar.
+- Sistem rating.
+- Watchlist.
+- Watch history.
+- Supabase authentication.
+- Dynamic SEO.
+- Deployment ke Vercel.
+
+---
+
+## Tentang Drakor IT
+
+Drakor IT cocok untuk pengguna yang ingin menemukan drama Korea dan film Asia dengan cepat, tampilan bersih, dan informasi yang mudah dipahami.
+
+Desain dibuat mobile-first dengan card poster yang mengikuti data asli dari API dan layout yang tetap rapi di layar kecil.
+
+Kunjungi situsnya di:
+
+[https://drakor-it.vercel.app](https://drakor-it.vercel.app)
+
+Temukan drama Korea, movie, ongoing series, completed titles, serta rekomendasi tontonan terbaru.
